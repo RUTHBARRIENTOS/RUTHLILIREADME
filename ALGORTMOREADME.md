@@ -45,8 +45,8 @@ ALGORITMO  DE TESORO
 HAY TRES COFRES TENENEMOS QUE SABER CUAAL DE LOS TRES TIENE EL TESORO 
 EL PRIMERO TI
 
-### tarea de pseudocodigo
-# calculadora
+# tarea de pseudocodigo
+### calculadora
 Algoritmo calculadora
 	escribir"que operacion deseas realizar?(suma/resta/multiplicacion/division)"
 	leer operando
