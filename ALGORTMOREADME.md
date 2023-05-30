@@ -44,3 +44,19 @@ PARA CALCULAR LA FECHA DEBES COLOCAR LA FECHA ACTUAL Y DESPUE SABER CUANTOS AÑO
 ALGORITMO  DE TESORO
 HAY TRES COFRES TENENEMOS QUE SABER CUAAL DE LOS TRES TIENE EL TESORO 
 EL PRIMERO TI
+
+### tarea de pseudocodigo
+# calculadora
+Algoritmo calculadora
+	escribir"que operacion deseas realizar?(suma/resta/multiplicacion/division)"
+	leer operando
+	escribir"ingreas el primer numero>15"
+	leer primerNumero
+	escribir "ingreasa  el segundo numero < 75"
+	leer segundoNumero
+segun operarando 
+
+	FinSegun
+	
+	
+FinAlgoritmo
