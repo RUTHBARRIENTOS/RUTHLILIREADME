@@ -46,6 +46,7 @@ HAY TRES COFRES TENENEMOS QUE SABER CUAAL DE LOS TRES TIENE EL TESORO
 EL PRIMERO TI
 
 # tarea de pseudocodigo
+
 ### calculadora
 * Algoritmo calculadora
 	* escribir"que operacion deseas realizar?(suma/resta/multiplicacion/division)"
@@ -60,3 +61,18 @@ EL PRIMERO TI
 	
 	
 * FinAlgoritmo
+
+***Formulario
+
+Algoritmo formulario
+	escribir"ingrese nombre"
+	leer nombre
+	escribir"ingrese  apellido"
+	leer apellido
+	escribir"ingrese su edad"
+	leer edad
+	imprimir'ingresa direccion"
+	leer direccion
+	imprimir"correo electronico"
+	leer correoElectronico
+FinAlgoritmo
