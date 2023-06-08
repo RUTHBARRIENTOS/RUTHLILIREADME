@@ -76,3 +76,10 @@ Algoritmo formulario
 	imprimir"correo electronico"
 	leer correoElectronico
 FinAlgoritmo
+
+
+
+Algoritmo myName
+	escribir'ruth barrientos'
+FinAlgoritmo
+
