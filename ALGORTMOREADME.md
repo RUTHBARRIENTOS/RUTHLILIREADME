@@ -74,6 +74,12 @@ Algoritmo formulario
 	imprimir'ingresa direccion"
 	leer direccion
 	imprimir"correo electronico"
+	
+	Algoritmo nombre
+	imprimir"ruth barriento'
+	imprimir 34	
+FinAlgoritmo
+
 	leer correoElectronico
 FinAlgoritmo
 
@@ -82,4 +88,7 @@ FinAlgoritmo
 Algoritmo myName
 	escribir'ruth barrientos'
 FinAlgoritmo
+
+
+
 
