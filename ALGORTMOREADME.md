@@ -112,3 +112,20 @@ FinAlgoritmo
 
 
 
+Algoritmo calculadoraSimpleswitch
+	escribir "ingresa el primer numero"
+	leer primerNumero
+	escribir "ingresa el segundo numero"
+	leer segundoNumero
+	imprimir "que operacion desea realizar +,-,*,/"
+	leer operando
+	si operando  '+' operando '-' operando  '*' operando  '/'
+		imprimir 'procesando'+convertirtexto (numero1) +'segun operando hacer"
+		imprimir resultado + Convertir
+		 imprimir resultado - convertir
+		  imprimir resultado * convertir
+		 imprimir resultado /convertir
+	
+	
+	
+FinAlgoritmo
