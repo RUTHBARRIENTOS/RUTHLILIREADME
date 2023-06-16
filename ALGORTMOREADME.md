@@ -135,3 +135,26 @@ FinAlgoritmo
 
 
 ##semana 4
+
+Algoritmo comisionporventa
+	escribir"ingresa el total de ventas"
+	leer ventas
+	totalRenumerado=0 
+	para salida = 1 hasta ventas  con paso 1 Hasta 
+		escribir"ingrese el valor de venatas "
+		leer ventas 
+		totalrenumerado = ventas
+		FinPara
+		promedio =totalrenumerado +ventasDEsalida
+		imprimir'la venta promrdio es'
+		
+		si ventas <-10 entonces
+			imprimir"la  comision recibida  la venta"
+		sino
+			imprimir'la comosison por la venta'
+		FinSi
+
+FinAlgoritmo
+
+
+
