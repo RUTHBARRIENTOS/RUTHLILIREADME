@@ -129,3 +129,9 @@ Algoritmo calculadoraSimpleswitch
 	
 	
 FinAlgoritmo
+
+
+
+
+
+##semana 4
