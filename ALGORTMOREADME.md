@@ -136,7 +136,7 @@ FinAlgoritmo
 
 
 
-##semana 4
+# semana 4
 
 Algoritmo comisionporventa
 	escribir"ingresa el total de ventas"
