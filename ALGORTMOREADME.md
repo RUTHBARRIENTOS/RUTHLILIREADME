@@ -45,7 +45,7 @@ ALGORITMO  DE TESORO
 HAY TRES COFRES TENENEMOS QUE SABER CUAAL DE LOS TRES TIENE EL TESORO 
 EL PRIMERO TI
 
-#semana 2
+# semana 2
 
 # tarea de pseudocodigo
 
@@ -85,7 +85,7 @@ FinAlgoritmo
 	leer correoElectronico
 FinAlgoritmo
 
-##semana3
+## semana 3
 
 Algoritmo myName
 	escribir'ruth barrientos'
